@@ -1,1 +1,0 @@
-# akhila_gitops
